@@ -1,1 +1,1 @@
-# color-detection
+# Color Detection using OpenCV
